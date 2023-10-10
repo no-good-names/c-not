@@ -1,0 +1,7 @@
+calculator/
+├── src/
+│   ├── main.cpp
+│   ├── calculator.cpp
+│   └── calculator.h
+├── Makefile
+└── README.md
